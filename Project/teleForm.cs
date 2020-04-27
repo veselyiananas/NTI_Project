@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Project
+namespace window3
 {
-    public partial class Form1 : Form
+    public partial class teleForm : Form
     {
-        public Form1()
+        public teleForm()
         {
             InitializeComponent();
         }
